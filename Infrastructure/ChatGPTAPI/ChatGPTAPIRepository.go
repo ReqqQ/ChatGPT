@@ -3,7 +3,7 @@ package InfrastructureChatGPTAPI
 import (
 	"encoding/json"
 
-	"ChatGPT/Infrastructure/Base"
+	"github.com/ReqqQ/ChatGPT/Infrastructure/Base"
 )
 
 const CHATGPT_COMPLETIONS_ENDPOINT = "https://api.openai.com/v1/chat/completions"

@@ -1,4 +1,4 @@
-module ChatGPT
+module github.com/ReqqQ/ChatGPT
 
 go 1.20
 

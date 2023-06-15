@@ -3,8 +3,8 @@ package DomainModelChatGPT
 import (
 	"encoding/json"
 
-	"ChatGPT/Infrastructure/Base"
-	InfrastructureChatGPTAPI "ChatGPT/Infrastructure/ChatGPTAPI"
+	"github.com/ReqqQ/ChatGPT/Infrastructure/Base"
+	InfrastructureChatGPTAPI "github.com/ReqqQ/ChatGPT/Infrastructure/ChatGPTAPI"
 )
 
 type ChatGPTService struct {
